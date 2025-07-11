@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "title": "Minecraft 1.21.7 Released!",
+      "date": "2025-07-10T12:00:00Z",
+      "content": "The latest Minecraft version 1.21.7 is now available with many bug fixes and new features."
+    },
+    {
+      "title": "Modding Support Added",
+      "date": "2025-07-11T15:00:00Z",
+      "content": "Our launcher now supports mods! Add your favorite mods easily via the launcher UI."
+    }
+  ]
+}
