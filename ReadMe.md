@@ -18,3 +18,11 @@
 2. Start app:
     ```bash
    npm start
+
+
+## asked Questions
+
+number one does this connect to my minecraft account
+
+-- 
+no this doesn't!
