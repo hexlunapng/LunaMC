@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "electron": "^30.0.0",
-    "minecraft-launcher-core": "^1.16.0",
+    "minecraft-launcher-core": "^3.18.2",
     "prismarine-auth": "^1.1.0"
   }
 }
